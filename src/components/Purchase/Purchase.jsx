@@ -6,25 +6,25 @@ const Purchase = () => {
       name: "Kettlebell / 5kg",
       price: "59,99$",
       originalPrice: "89,99$",
-      image: "public/images/purchase1.jpg",
+      image: "/images/purchase1.jpg",
     },
     {
       name: "Treadmill / 5kg",
       price: "599,99$",
       originalPrice: "899,99$",
-      image: "public/images/purchase2.jpg",
+      image: "/images/purchase2.jpg",
     },
     {
       name: "Adjustable Dumbbell",
       price: "59,99$",
       originalPrice: "89,99$",
-      image: "public/images/purchase4.jpg",
+      image: "/images/purchase4.jpg",
     },
     {
       name: "KettleBell / 3kg",
       price: "599,99$",
       originalPrice: "899,99$",
-      image: "public/images/purchase3.jpg",
+      image: "/images/purchase3.jpg",
     },
   ];
 

@@ -24,7 +24,7 @@ const Navbar = () => {
     <header>
       <nav className={`navbar-container ${navbarBg ? "bgColor" : ""}`}> {/* Arka plan rengi değişimini uygular */}
         <div className="logo">
-          <img src="public/images/logo.png" alt="band" />
+          <img src="/images/logo.png" alt="band" />
         </div>
         <input type="checkbox" className="menu-btn" id="menu-btn" />
         <label htmlFor="menu-btn" className="menu-icon">

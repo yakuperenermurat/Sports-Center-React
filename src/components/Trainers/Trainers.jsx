@@ -5,17 +5,17 @@ const Trainers = () => {
     {
       name: "Esra ÜNAL",
       specialty: "Pilates Trainer",
-      image: "public/images/trainer1.jpg",
+      image: "/images/trainer1.jpg",
     },
     {
       name: "Yakup Eren ERMURAT",
       specialty: "Functional Trainer",
-      image: "public/images/trainer2.jpg",
+      image: "/images/trainer2.jpg",
     },
     {
       name: "Fatma ÇAKIR",
       specialty: "Cardio Trainer",
-      image: "public/images/trainer3.jpg",
+      image: "/images/trainer3.jpg",
     },
   ];
 

@@ -42,7 +42,7 @@ const BMI = () => {
       </div>
       <div className="img-container">
         <h4>Your BMI: {bmi || "Enter values to calculate"}</h4>
-        <img src="public/images/bmi-index.jpg" alt="BMI Index" />
+        <img src="/images/bmi-index.jpg" alt="BMI Index" />
         <div className="triangle" style={{ left: `${percentage}%` }}></div>
       </div>
     </div>

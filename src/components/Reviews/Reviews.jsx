@@ -12,7 +12,7 @@ const Reviews = () => {
         <div className="client-container">
           <div className="review">
             <div className="client">
-              <img src="public/images/client1.jpg" alt="Client 1" />
+              <img src="/images/client1.jpg" alt="Client 1" />
               <p>
                 <span>Diet Expert</span><br />
                 CFO
@@ -28,7 +28,7 @@ const Reviews = () => {
           </div>
           <div className="review">
             <div className="client">
-              <img src="public/images/client2.jpg" alt="Client 2" />
+              <img src="/images/client2.jpg" alt="Client 2" />
               <p>
                 <span>Cardio Trainer</span><br />
                 CEO

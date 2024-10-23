@@ -12,7 +12,7 @@ const Classes = () => {
       "Monday-Tuesday: 8:00am - 10:000am",
       "Wednesday-Friday: 8:00am - 10:000am",
     ],
-    image: "public/images/yoga.jpg",
+    image: "/images/yoga.jpg",
   });
 
   const group = () => ({
@@ -24,7 +24,7 @@ const Classes = () => {
       "Monday-Tuesday: 8:00am - 10:000am",
       "Wednesday-Friday: 8:00am - 10:000am",
     ],
-    image: "public/images/group.webp",
+    image: "/images/group.webp",
   });
 
   const solo = () => ({
@@ -36,7 +36,7 @@ const Classes = () => {
       "Monday-Tuesday: 8:00am - 10:000am",
       "Wednesday-Friday: 8:00am - 10:000am",
     ],
-    image: "public/images/solo.jpg",
+    image: "/images/solo.jpg",
   });
 
   const stretch = () => ({
@@ -48,7 +48,7 @@ const Classes = () => {
       "Monday-Tuesday: 8:00am - 10:000am",
       "Wednesday-Friday: 8:00am - 10:000am",
     ],
-    image: "public/images/stret.webp",
+    image: "/images/stret.webp",
   });
 
   const classes = {
