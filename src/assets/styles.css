@@ -75,7 +75,7 @@
   
   /* Home Section */
   #home {
-    background-image: url(public/images/hero-man.jpg); /* Arka plan resmi */
+    background-image: url(/images/hero-man.jpg); /* Arka plan resmi */
     background-size: cover; /* Resmi alanın tamamına yayar */
     background-position: center; /* Resmin merkezini hizalar */
   }
